@@ -1,6 +1,6 @@
 {
   "name": "YFDAI",
-  "logoURI": "https://umaproject.org/assets/images/UMA_square_red_logo_circle.png",
+  "logoURI": "https://raw.githubusercontent.com/Cryption-Digital-Services/ydai-list/43d883081319c532430557d5dac710d3ddbb6d70/Logo.svg",
   "keywords": ["defi", "yfdai", "yield"],
   "timestamp": "2020-11-23T01:40:34.305Z",
   "tokens": [
@@ -16,14 +16,16 @@
       "address": "0xe14e06671702f0db50055388c29adc66821d933b",
       "name": "IMPULSEVEN",
       "symbol": "VEN",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Cryption-Digital-Services/ydai-list/master/logoyfdai.png"
     },
     {
       "chainId": 1,
       "address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
       "name": "DIGITAL FITNESS",
       "symbol": "DEFIT",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     },
     {
       "chainId": 1,
