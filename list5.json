@@ -79,10 +79,18 @@
         {
             "chainId": 1,
             "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-            "name": " Wrapped Ether",
+            "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18,
             "logoURI": "https://etherscan.io/token/images/weth_28.png"
+        },
+               {
+            "chainId": 1,
+            "address": "0x2ECc48ba346A73d7d55aa5a46b5E314d9DAA6161",
+            "name": "SafeSwap Governance Token",
+            "symbol": "SSGT",
+            "decimals": 18,
+            "logoURI": "https://etherscan.io/token/images/safeswapyfdai_32.png"
         }
     ],
     "version": {
