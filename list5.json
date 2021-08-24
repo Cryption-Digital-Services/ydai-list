@@ -25,6 +25,22 @@
         },
         {
             "chainId": 1,
+            "address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
+            "name": "DEX Tools",
+            "symbol": "DEXT",
+            "decimals": 18,
+            "logoURI": "https://etherscan.io/token/images/dextools_32.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x560cC7De81B2A594F6518713cBE122bCF297A6E8",
+            "name": "IMPULSEVEN",
+            "symbol": "I7",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Cryption-Digital-Services/ydai-list/master/logoyfdai.png"
+        },
+        {
+            "chainId": 1,
             "address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
             "name": "DIGITAL FITNESS",
             "symbol": "DEFIT",
